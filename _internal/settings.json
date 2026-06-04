@@ -1,0 +1,20 @@
+{
+  "font_size": 13,
+  "auto_clear_clipboard": true,
+  "clear_clipboard_seconds": 30,
+  "show_passwords": true,
+  "confirm_delete": true,
+  "always_on_top": false,
+  "remember_window_pos": true,
+  "auto_save": true,
+  "base_dir": "D:\\Project\\Institut\\Kras\\output",
+  "json_filename": "passwords.json",
+  "png_filename": "passwords_backup.png",
+  "encryption_key": "qwer",
+  "window_geometry": {
+    "x": 510,
+    "y": 221,
+    "width": 900,
+    "height": 600
+  }
+}
