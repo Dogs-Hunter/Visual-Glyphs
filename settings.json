@@ -7,14 +7,15 @@
   "always_on_top": false,
   "remember_window_pos": true,
   "auto_save": true,
-  "base_dir": "D:\\Project\\Institut\\Kras\\output",
-  "json_filename": "passwords.json",
-  "png_filename": "passwords_backup.png",
+  "base_dir": "D:\\Project\\WebApp",
+  "json_filename": "raw.json",
+  "png_filename": "data_visual.png",
   "encryption_key": "qwer",
   "window_geometry": {
-    "x": 510,
-    "y": 221,
+    "x": 546,
+    "y": 211,
     "width": 900,
     "height": 600
-  }
+  },
+  "key_method": "zero_pad"
 }
